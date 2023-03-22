@@ -12,7 +12,7 @@
 
 
 
-- <p align="left"><img src="https://user-images.githubusercontent.com/54871373/218267045-09100621-8985-4b73-96bf-f0a187980e61.gif" widht="30" height="30" style="margintop:"10px" alt="" /> I’m currently working on Frontend Developent using React.js and Next.js</p>
+- <p align="left"><img src="https://user-images.githubusercontent.com/54871373/218267045-09100621-8985-4b73-96bf-f0a187980e61.gif" widht="30" height="30" style="margintop:"10px" alt="" /> I’m currently working on FrontEnd Development using React.js and Next.js</p>
 
 - 🧠 I’m currently learning **Nest.js Express mongodb**
 
