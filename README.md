@@ -20,11 +20,11 @@
   
   🤝 Teamwork makes the dream work
 
-- 👨‍💻 All of my projects are available at [http://muhammadimran-portfolio.surge.sh/](http://muhammadimran-portfolio.surge.sh/)
+- 👨‍💻 My portfolio is available at [http://muhammadimran-portfolio.surge.sh/](http://muhammadimran-portfolio.surge.sh/)
 
 - 📫 How to reach me **munir787898@gmail.com**
 
-- 📄 Know about my experiences [http://muhammadimran-portfolio.surge.sh/](http://muhammadimran-portfolio.surge.sh/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-imran-0822b51aa//](https://www.linkedin.com/in/muhammad-imran-0822b51aa//)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
